@@ -14,49 +14,54 @@ Workshop Organizer/Facilitator ( Virtual Labs Team Member/Outreach Coordinator/N
 ** Pre Workshop
  1. Identify the college.
  2. Send invite mail to the college.  
-    Draft mail : 
-	Greetings from Virtual Labs, IIIT Hyderabad !
+     Draft mail :
 
-	Virtual Labs is an MHRD Initiative which aims at making available
-	experiments done in Engineering Colleges in a Virtual form, to all
-	the college students as a adjunct facility to the physical
-	labs.These labs provide an opportunity to the students to perform
-	these simulated experiments, read the theory and improve their
-	understanding of the subject.
+     
 
-	The Virtual Labs portal provides free access to over 1500
-	experiments in over 9 domains of engineering and science
-	subjects. These can be used anywhere, anytime and on any subject.
+	 Greetings from Virtual Labs, IIIT Hyderabad !
 
-	These experiments are built by 12 leading institutes such as the 6
-	IITs, IIIT Hyderabad, College of Engineering Pune and so on. Thus,
-	the content is best in class.
+	 Virtual Labs is an MHRD Initiative which aims at making available
+	 experiments done in Engineering Colleges in a Virtual form, to all
+	 the college students as a adjunct facility to the physical
+	 labs.These labs provide an opportunity to the students to perform
+	 these simulated experiments, read the theory and improve their
+	 understanding of the subject.
 
-	We request <place holder for college name> college, to give us
-	time between <place holder for start time> and <place holder for
-	end time> on <place holder for date and day > to conduct a
-	workshop to familiarize the students and faculty in the use of the
-	Virtual labs- both the internet based version and the College
-	cloud version. College Cloud edition is an Internet independent
-	option. The prerequisites that must be made available, for this
-	workshop are detailed in the above page.  The College Cloud
-	version is a newer development and we will run this in the
-	Workshop. Kindly return the 'Expression of Interest' document duly
-	filled in to us immediately.  We request your confirmation of
-	suitability of doing the workshop and the date and time.
+	 The Virtual Labs portal provides free access to over 1500
+	 experiments in over 9 domains of engineering and science
+	 subjects. These can be used anywhere, anytime and on any subject.
 
-	We look forward to meeting you and working with you on the Virtual
-	labs.
+	 These experiments are built by 12 leading institutes such as the 6
+	 IITs, IIIT Hyderabad, College of Engineering Pune and so on. Thus,
+	 the content is best in class.
+
+	 We request <place holder for college name> college, to give us
+	 time between <place holder for start time> and <place holder for
+	 end time> on <place holder for date and day > to conduct a
+	 workshop to familiarize the students and faculty in the use of the
+	 Virtual labs- both the internet based version and the College
+	 cloud version. College Cloud edition is an Internet independent
+	 option. The prerequisites that must be made available, for this
+	 workshop are detailed in the above page.  The College Cloud
+	 version is a newer development and we will run this in the
+	 Workshop. Kindly return the 'Expression of Interest' document duly
+	 filled in to us immediately.  We request your confirmation of
+	 suitability of doing the workshop and the date and time.
+
+	 We look forward to meeting you and working with you on the Virtual
+	 labs.
+
+
  3. Ask the college to fill the Expression of Interest form.
  4. Make sure that the college submits a filled check list form.
  5. During the communication confirm the number of faculty /students
-    and disciplines of interest.
+     and disciplines of interest.
  6. Add a workshop in Outreach Portal with relevant information.
  7. Train team members to present during workshops
  8. Make sure that the lab that you choose for demo is something that
-    you have basic knowledge about.
+     you have basic knowledge about.
  9. For college cloud edition choose labs that relevant to disciplines
-    of interest.
+     of interest.
 
 ** Peri Workshop
 During welcome address publish an Agenda with duration.
@@ -78,24 +83,41 @@ During welcome address publish an Agenda with duration.
 *** Detailing the Main Demo and Hands on
 Main demo should start with display of its own agenda . Each step is
 sequential and synchronous; i.e, participants and workshop
-facilitators are doing the tasks below in sync.
-1. User registration - 10 minutes.
-2. Logged in user screen / features - a quick glance. 5 minutes
-3. Enroll / Subscribe to Labs.  - 5 minutes
-4. The structure of Labs, Experiments. - 5 minutes. 
-5. Demo Lab by workshop facilitator. All the participants should just follow the instructions given by the facilitator only. - 10 minutes
-   5.1 Recap of the Lab 5 minutes.
-6. Lab of individual interest - All the participants should choose labs from the published list in case of the college cloud edition - 10 minutes.
-7. Feedback Forms ( online) - 15 min
-   Total: 1 hour
+facilitators are doing the tasks below in sync. Go slow on presentation.
+|------+----------------------------------------------------------------------+------------|
+| S.No | Tasks                                                                | Time slot  |
+|------+----------------------------------------------------------------------+------------|
+|    1 | User registration                                                    | 10 minutes |
+|------+----------------------------------------------------------------------+------------|
+|    2 | Logged in user screen / features - a quick glance                    | 5 minutes  |
+|------+----------------------------------------------------------------------+------------|
+|    3 | Enroll / Subscribe to Labs.                                          | 5 minutes  |
+|------+----------------------------------------------------------------------+------------|
+|    4 | The structure of Labs, Experiments.                                  | 5 minutes  |
+|------+----------------------------------------------------------------------+------------|
+|    5 | Demo Lab by workshop facilitator. All the participants should        | 10 minutes |
+|      | just follow the instructions given by the facilitator only.          |            |
+|------+----------------------------------------------------------------------+------------|
+|  5.1 | Recap of the Lab                                                     | 5 minutes  |
+|------+----------------------------------------------------------------------+------------|
+|    6 | Lab of individual interest - All the participants should choose labs | 10 minutes |
+|      | from the published list in case of the college cloud edition         |            |
+|------+----------------------------------------------------------------------+------------|
+|    7 | Feedback Forms ( online)                                             | 15 minutes |
+|------+----------------------------------------------------------------------+------------|
+Total: 1 hour
 
 ** Post Workshop
 
-1. Collect the necessary feedback files in case of College Cloud Edition. (Give link to the relevant section in installation guide)
-2. Update Outreach Portal with reports/feedback forms/attendance sheet.
+1. Collect the necessary feedback files in case of College Cloud
+   Edition. (Give link to the relevant section in installation guide)
+2. Update Outreach Portal with reports/feedback forms/attendance
+   sheet.
 
 ** Workshop Presentation Material 
-1. Prepare Virtual Labs overview presentation ( link to the Presentation)
-2. Link to Online Feedback form ( paper form)
-3. Link to College Cloud Feedback form ( paper form)
+
+1. Prepare Virtual Labs overview presentation ( link to the
+   Presentation)
+2. Link to Online Feedback form (paper form)
+3. Link to College Cloud Feedback form (paper form)
 
