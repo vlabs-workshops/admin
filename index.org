@@ -7,8 +7,11 @@ The objective of this document is to help Virtual Labs Team
 Member/Outreach Coordinator/Nodal Coordinator organize/conduct an
 effective Virtual Labs online/College Cloud Workshop.
 
+
 * Audience
-Workshop Organizer/Facilitator ( Virtual Labs Team Member/Outreach Coordinator/Nodal Coordinator)
+Workshop Organizer/Facilitator ( Virtual Labs Team Member/Outreach
+Coordinator/Nodal Coordinator)
+
 
 * Process to be followed Pre/Peri/Post workshops
 ** Pre Workshop
@@ -27,7 +30,7 @@ Workshop Organizer/Facilitator ( Virtual Labs Team Member/Outreach Coordinator/N
 	 these simulated experiments, read the theory and improve their
 	 understanding of the subject.
 
-	 The Virtual Labs portal provides free access to over 1500
+	 The [[http://www.vlabs.ac.in/][Virtual Labs]] portal provides free access to over 1500
 	 experiments in over 9 domains of engineering and science
 	 subjects. These can be used anywhere, anytime and on any subject.
 
@@ -40,11 +43,11 @@ Workshop Organizer/Facilitator ( Virtual Labs Team Member/Outreach Coordinator/N
 	 end time> on <place holder for date and day > to conduct a
 	 workshop to familiarize the students and faculty in the use of the
 	 Virtual labs- both the internet based version and the College
-	 cloud version. College Cloud edition is an Internet independent
+	 cloud version. [[http://vlabs.ac.in:5959/college-cloud-edition/][College Cloud edition]] is an Internet independent
 	 option. The prerequisites that must be made available, for this
 	 workshop are detailed in the above page.  The College Cloud
 	 version is a newer development and we will run this in the
-	 Workshop. Kindly return the 'Expression of Interest' document duly
+	 Workshop. Kindly return the [[https://docs.google.com/a/vlabs.ac.in/forms/d/e/1FAIpQLScvUGaE6ln6JzeIVc2CqTXwac_R69WhzoM5TrW6y99hFB6nbw/viewform?embedded=true'][Expression of Interest' document]] duly
 	 filled in to us immediately.  We request your confirmation of
 	 suitability of doing the workshop and the date and time.
 
