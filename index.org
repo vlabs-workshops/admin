@@ -1,75 +1,100 @@
-Objective
-The objective of this document is to help Virtual Labs Team Member/Outreach Coordinator/Nodal Coordinator organize/conduct an effective Virtual Labs online/College Cloud Workshop.
+#+TITLE: Virtual Labs Workshop Planning 
+#+AUTHOR: VLEAD
+#+DATE: [2017-03-01 Wed]
 
-Audience
+* Objective 
+The objective of this document is to help Virtual Labs Team
+Member/Outreach Coordinator/Nodal Coordinator organize/conduct an
+effective Virtual Labs online/College Cloud Workshop.
+
+* Audience
 Workshop Organizer/Facilitator ( Virtual Labs Team Member/Outreach Coordinator/Nodal Coordinator)
 
-Process to be followed Pre/Peri/Post workshops
+* Process to be followed Pre/Peri/Post workshops
+** Pre Workshop
+ 1. Identify the college.
+ 2. Send invite mail to the college.  
+    Draft mail : 
+	Greetings from Virtual Labs, IIIT Hyderabad !
 
-Pre Workshop
+	Virtual Labs is an MHRD Initiative which aims at making available
+	experiments done in Engineering Colleges in a Virtual form, to all
+	the college students as a adjunct facility to the physical
+	labs.These labs provide an opportunity to the students to perform
+	these simulated experiments, read the theory and improve their
+	understanding of the subject.
 
-1. Identify the college
-2. Send invite mail to the college
-Draft mail :
-Greetings from Virtual Labs, IIIT Hyderabad !
+	The Virtual Labs portal provides free access to over 1500
+	experiments in over 9 domains of engineering and science
+	subjects. These can be used anywhere, anytime and on any subject.
 
-Virtual Labs is an MHRD Initiative which aims at making available experiments done in Engineering Colleges in a Virtual form, to all the college students as a adjunct facility to the physical labs.These labs provide an opportunity to the students to perform these simulated experiments, read the theory and improve their understanding of the subject. 
+	These experiments are built by 12 leading institutes such as the 6
+	IITs, IIIT Hyderabad, College of Engineering Pune and so on. Thus,
+	the content is best in class.
 
-The Virtual Labs portal provides free access to over 1500 experiments in over 9 domains of engineering and science subjects. These can be used anywhere, anytime and on any subject. 
+	We request <place holder for college name> college, to give us
+	time between <place holder for start time> and <place holder for
+	end time> on <place holder for date and day > to conduct a
+	workshop to familiarize the students and faculty in the use of the
+	Virtual labs- both the internet based version and the College
+	cloud version. College Cloud edition is an Internet independent
+	option. The prerequisites that must be made available, for this
+	workshop are detailed in the above page.  The College Cloud
+	version is a newer development and we will run this in the
+	Workshop. Kindly return the 'Expression of Interest' document duly
+	filled in to us immediately.  We request your confirmation of
+	suitability of doing the workshop and the date and time.
 
-These experiments are built by 12 leading institutes such as the 6 IITs, IIIT Hyderabad, College of Engineering Pune and so on. Thus, the content is best in class. 
+	We look forward to meeting you and working with you on the Virtual
+	labs.
+ 3. Ask the college to fill the Expression of Interest form.
+ 4. Make sure that the college submits a filled check list form.
+ 5. During the communication confirm the number of faculty /students
+    and disciplines of interest.
+ 6. Add a workshop in Outreach Portal with relevant information.
+ 7. Train team members to present during workshops
+ 8. Make sure that the lab that you choose for demo is something that
+    you have basic knowledge about.
+ 9. For college cloud edition choose labs that relevant to disciplines
+    of interest.
 
-We request <place holder for college name> college, to give us time between <place holder for start time>  and <place holder for end time> on <place holder for date and day >  to conduct a workshop to familiarize the students and faculty in the use of the Virtual labs- both the internet based version and the College cloud version. College Cloud  edition is an  Internet independent  option. The prerequisites that must be made available, for this workshop are detailed in the above page. 
-The College Cloud version is a newer development and we will run this in the Workshop. Kindly return the 'Expression of Interest' document duly filled in to us immediately.
-We request your confirmation of suitability of  doing the workshop and the date and time. 
+** Peri Workshop
+During welcome address publish an Agenda with duration.
+    Draft Agenda:
+	1. Virtual Labs Overview :  10 minutes.
+	    Slide 1 -  What is Virtual Labs ?
+	    Slide 2 -  Features - Faculty
+	    Slide 3 -  Features - Students
+	    Slide 4 -  Statistics - Usages/Outreach/Nodal Centers
+	    Slide 5 - College Cloud Edition
+        2. Distribute handouts about the labs. URL to access, feedback form,attendance sheets - 5 minutes.
+	3. Main Demo - 30 min
+	4. Hands on - 30 min
+	5. Q&A + feedback faculty ( verbal) : 15 minutes. 
+	6. Q&A + feedback students ( verbal/paper forms) : 15 minutes.
 
-We look forward to meeting you and working with you on the Virtual labs
- 
+	   Total: 1 hour 30 minutes
 
-3. Ask the college to fill the Expression of Interest form.
-4. Make sure that the college submits a filled check list form.
-5. During the communication confirm the number of faculty /students and disciplines of interest.  
-6. Add a workshop in Outreach Portal with relevant information.
-7. Train team members to present during workshops
-8. Make sure that the lab that you choose for demo is something that you have basic knowledge about.
-9. For college cloud edition choose labs that relevant to disciplines of interest.
-
-Peri Workshop
-
-1. During Welcome publish an Agenda with duration.
-Draft Agenda:
-1. Virtual Labs Overview :  10 minutes.
-    Slide 1 -  What is Virtual Labs ?
-    Slide 2 -  Features - Faculty
-    Slide 3 -  Features - Students
-    Slide 4 -  Statistics - Usages/Outreach/Nodal Centers
-    Slide 5 - College Cloud Edition
-2. Distribute handouts about the labs. URL to access, feedback form,attendance sheets - 5 minutes.
-3. Main Demo - 30 min
-4. Hands on - 30 min
-5. Q&A + feedback faculty ( verbal) : 15 minutes. 
-6. Q&A + feedback students ( verbal/paper forms) : 15 minutes.
-
-   Total: 1 hour 30 minutes
-   
-Detailing the Main Demo and Hands on
-Main demo should start  with display of its own agenda . Each step is sequential and synchronous; i.e, participants and workshop facilitators are doing the tasks below in sync.
-     1. User registration - 10 minutes.
-     2. Logged in user screen / features - a quick glance. 5 minutes
-     3. Enroll / Subscribe to Labs.  - 5 minutes
-     4. The structure of Labs, Experiments. - 5 minutes. 
-     5. Demo Lab by workshop facilitator. All the participants should just follow the instructions of the facilitator only. - 10 minutes.
-     5.1 Recap of the Lab 5 minutes.
-     6. Lab of individual interest - All the participants should choose labs from the published list in case of the college cloud edition - 10 minutes.
-     7. Feedback Forms ( online) - 15 min
+*** Detailing the Main Demo and Hands on
+Main demo should start with display of its own agenda . Each step is
+sequential and synchronous; i.e, participants and workshop
+facilitators are doing the tasks below in sync.
+1. User registration - 10 minutes.
+2. Logged in user screen / features - a quick glance. 5 minutes
+3. Enroll / Subscribe to Labs.  - 5 minutes
+4. The structure of Labs, Experiments. - 5 minutes. 
+5. Demo Lab by workshop facilitator. All the participants should just follow the instructions given by the facilitator only. - 10 minutes
+   5.1 Recap of the Lab 5 minutes.
+6. Lab of individual interest - All the participants should choose labs from the published list in case of the college cloud edition - 10 minutes.
+7. Feedback Forms ( online) - 15 min
    Total: 1 hour
 
-Post Workshop
+** Post Workshop
 
 1. Collect the necessary feedback files in case of College Cloud Edition. (Give link to the relevant section in installation guide)
 2. Update Outreach Portal with reports/feedback forms/attendance sheet.
 
-Workshop Presentation Material 
+** Workshop Presentation Material 
 1. Prepare Virtual Labs overview presentation ( link to the Presentation)
 2. Link to Online Feedback form ( paper form)
 3. Link to College Cloud Feedback form ( paper form)

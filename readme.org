@@ -1,1 +1,7 @@
-This repository will contain all the relevant process documents, presentation material ,talks, feedback forms that can be used by the facilitator of the workshop.
+#+TITLE: Virtual Labs Workshop Planning 
+#+AUTHOR: VLEAD
+#+DATE: [2017-03-01 Wed]
+
+This repository will contain all the relevant process documents,
+presentation material ,talks, feedback forms that can be used by the
+facilitator of Virtual Labs Workshops.
