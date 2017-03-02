@@ -16,11 +16,12 @@ Coordinator/Nodal Coordinator)
 * Process to be followed Pre/Peri/Post workshops
 ** Pre Workshop
  1. Identify the college.
- 2. Send invite mail to the college.  
+ 2. Send invite mail to the college.   \\
      Draft mail :
 
      
-
+------------------------------------------------------------------------------
+ 
 	 Greetings from Virtual Labs, IIIT Hyderabad !
 
 	 Virtual Labs is an MHRD Initiative which aims at making available
@@ -53,7 +54,7 @@ Coordinator/Nodal Coordinator)
 
 	 We look forward to meeting you and working with you on the Virtual
 	 labs.
-
+------------------------------------------------------------------------------
 
  3. Ask the college to fill the Expression of Interest form.
  4. Make sure that the college submits a filled check list form.
