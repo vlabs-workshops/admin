@@ -71,7 +71,7 @@ Coordinator/Nodal Coordinator)
 During welcome address publish an Agenda with duration.
     Draft Agenda:
 	1. Virtual Labs Overview :  10 minutes.
-	    Slide 1 -  What is Virtual Labs ?
+	    Slide 1 -  What is Virtual Labs?
 	    Slide 2 -  Features - Faculty
 	    Slide 3 -  Features - Students
 	    Slide 4 -  Statistics - Usages/Outreach/Nodal Centers
