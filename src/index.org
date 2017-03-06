@@ -1,6 +1,12 @@
-#+TITLE: Virtual Labs Workshop Planning 
+#+TITLE:  Virtual Labs Workshop Planning  
 #+AUTHOR: VLEAD
-#+DATE: [2017-03-01 Wed]
+#+DATE: [2017-03-01  Wed]
+#+PROPERTY: results output
+#+PROPERTY: exports code
+#+SETUPFILE: ./org-templates/level-0.org
+#+options: ^:nil
+
+
 
 * Objective 
 The objective of this document is to help Virtual Labs Team
@@ -13,49 +19,10 @@ Workshop Organizer/Facilitator ( Virtual Labs Team Member/Outreach
 Coordinator/Nodal Coordinator)
 
 
-* Process to be followed Pre/Peri/Post workshops
+* Process to be followed Pre/During/Post workshops
 ** Pre Workshop
  1. Identify the college.
- 2. Send invite mail to the college.   \\
-     Draft mail :
-
-     
-------------------------------------------------------------------------------
- 
-	Greetings from Virtual Labs, IIIT Hyderabad !
-
-	 Virtual Labs is an MHRD Initiative which aims at making available
-	 experiments done in Engineering Colleges in a Virtual form, to all
-	 the college students as a adjunct facility to the physical
-	 labs.These labs provide an opportunity to the students to perform
-	 these simulated experiments, read the theory and improve their
-	 understanding of the subject.
-
-	 The [[http://www.vlabs.ac.in/][Virtual Labs]] portal provides free access to over 1500
-	 experiments in over 9 domains of engineering and science
-	 subjects. These can be used anywhere, anytime and on any subject.
-
-	 These experiments are built by 12 leading institutes such as the 6
-	 IITs, IIIT Hyderabad, College of Engineering Pune and so on. Thus,
-	 the content is best in class.
-
-	 We request <place holder for college name> college, to give us
-	 time between <place holder for start time> and <place holder for
-	 end time> on <place holder for date and day > to conduct a
-	 workshop to familiarize the students and faculty in the use of the
-	 Virtual labs- both the internet based version and the College
-	 cloud version. [[http://vlabs.ac.in:5959/college-cloud-edition/][College Cloud edition]] is an Internet independent
-	 option. The prerequisites that must be made available, for this
-	 workshop are detailed in the above page.  The College Cloud
-	 version is a newer development and we will run this in the
-	 Workshop. Kindly return the [[https://docs.google.com/a/vlabs.ac.in/forms/d/e/1FAIpQLScvUGaE6ln6JzeIVc2CqTXwac_R69WhzoM5TrW6y99hFB6nbw/viewform?embedded=true'][Expression of Interest' document]] duly
-	 filled in to us immediately.  We request your confirmation of
-	 suitability of doing the workshop and the date and time.
-
-	 We look forward to meeting you and working with you on the Virtual
-	 labs
-------------------------------------------------------------------------------
-
+ 2. Send invite mail to the college. See the [[./draft-mail.org][draft mail]]
  3. Ask the college to fill the Expression of Interest form.
  4. Make sure that the college submits a filled check list form.
  5. During the communication confirm the number of faculty /students
@@ -67,23 +34,30 @@ Coordinator/Nodal Coordinator)
  9. For college cloud edition choose labs that relevant to disciplines
      of interest.
 
-** Peri Workshop
+** During Workshop
 During welcome address publish an Agenda with duration.
-    Draft Agenda:
-	1. Virtual Labs Overview :  10 minutes.
-	    Slide 1 -  What is Virtual Labs?
-	    Slide 2 -  Features - Faculty
-	    Slide 3 -  Features - Students
-	    Slide 4 -  Statistics - Usages/Outreach/Nodal Centers
-	    Slide 5 - College Cloud Edition
-        2. Distribute handouts about the labs. URL to access, feedback form,attendance sheets - 5 minutes.
-	3. Main Demo - 30 min
-	4. Hands on - 30 min
-	5. Q&A + feedback faculty ( verbal) : 15 minutes. 
-	6. Q&A + feedback students ( verbal/paper forms) : 15 minutes.
+    + Draft Agenda:
+	+ Virtual Labs Overview :  10 minutes.
+            |---------+--------------------------------------------|
+            | Slide 1 | What is Virtual Labs ?                     |
+            |---------+--------------------------------------------|
+            | Slide 2 | Features - Faculty                         |
+            |---------+--------------------------------------------|
+            | Slide 3 | Features - Students                        |
+            |---------+--------------------------------------------|
+            | Slide 4 | Statistics - Usages/Outreach/Nodal Centers |
+            |---------+--------------------------------------------|
+            | Slide 5 | College Cloud Edition                      |
+            |---------+--------------------------------------------|
 
-	   Total: 1 hour 30 minutes
 
+        + Distribute handouts about the labs. URL to access, feedback form,attendance sheets - 5 minutes.
+	+ Main Demo - 30 min
+	+ Hands on - 30 min
+	+ Q&A + feedback faculty ( verbal) : 15 minutes. 
+	+ Q&A + feedback students ( verbal/paper forms) : 15 minutes.
+	+ Total: 1 hour 30 minutes
+	    
 *** Detailing the Main Demo and Hands on
 Main demo should start with display of its own agenda . Each step is
 sequential and synchronous; i.e, participants and workshop
