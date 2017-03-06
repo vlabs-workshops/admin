@@ -50,12 +50,13 @@ During welcome address publish an Agenda with duration.
             | Slide 5 | College Cloud Edition                      |
             |---------+--------------------------------------------|
 
+
         + Distribute handouts about the labs. URL to access, feedback form,attendance sheets - 5 minutes.
 	+ Main Demo - 30 min
 	+ Hands on - 30 min
 	+ Q&A + feedback faculty ( verbal) : 15 minutes. 
 	+ Q&A + feedback students ( verbal/paper forms) : 15 minutes.
-	+   Total: 1 hour 30 minutes
+	+ Total: 1 hour 30 minutes
 	    
 *** Detailing the Main Demo and Hands on
 Main demo should start with display of its own agenda . Each step is
