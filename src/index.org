@@ -19,7 +19,7 @@ Workshop Organizer/Facilitator ( Virtual Labs Team Member/Outreach
 Coordinator/Nodal Coordinator)
 
 
-* Process to be followed Pre/During/Post workshops
+* Workshop Process 
 ** Pre Workshop
  1. Identify the college.
  2. Send invite mail to the college. See the [[./draft-mail.org][draft mail]]
@@ -88,7 +88,7 @@ Total: 1 hour
 ** Post Workshop
 
 1. Collect the necessary feedback files in case of College Cloud
-   Edition. (Give link to the relevant section in installation guide)
+   Edition. 
 2. Update Outreach Portal with reports/feedback forms/attendance
    sheet.
 
@@ -96,6 +96,6 @@ Total: 1 hour
 
 1. Prepare Virtual Labs overview presentation ( link to the
    Presentation)
-2. Link to Online Feedback form (paper form)
-3. Link to College Cloud Feedback form (paper form)
+2. [[https://drive.google.com/open?id=0B0V6lgtnnIOZT0xzMmE0c3BPQzg][Online Workshop version feedback form]] 
+3. [[https://drive.google.com/open?id=0B0V6lgtnnIOZb3JwRUlmRnNOMTQ][Offline College Cloud Feedback form]]
 

@@ -1,4 +1,4 @@
-#+TITLE:  Draf mail 
+#+TITLE:  Draft mail 
 #+AUTHOR: VLEAD
 #+DATE: [2017-03-06  Monday]
 #+PROPERTY: results output
