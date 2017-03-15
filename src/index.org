@@ -94,8 +94,7 @@ Total: 1 hour
 
 ** Workshop Presentation Material 
 
-1. Prepare Virtual Labs overview presentation ( link to the
-   Presentation)
+1. [[https://drive.google.com/open?id=0B0V6lgtnnIOZdzc1LU5jMFNDd3c][Virtual Labs overview presentation]]
 2. [[https://drive.google.com/open?id=0B0V6lgtnnIOZT0xzMmE0c3BPQzg][Online Workshop version feedback form]] 
 3. [[https://drive.google.com/open?id=0B0V6lgtnnIOZb3JwRUlmRnNOMTQ][Offline College Cloud Feedback form]]
 
