@@ -23,8 +23,8 @@ Coordinator/Nodal Coordinator)
 ** Pre Workshop
  1. Identify the college.
  2. Send invite mail to the college. See the [[./draft-mail.org][draft mail]]
- 3. Ask the college to fill the Expression of Interest form.
- 4. Make sure that the college submits a filled check list form.
+ 3. Ask the college to fill the [[https://docs.google.com/a/vlabs.ac.in/forms/d/e/1FAIpQLScvUGaE6ln6JzeIVc2CqTXwac_R69WhzoM5TrW6y99hFB6nbw/viewform?embedded=true][Expression of Interest]] form.
+ 4. Make sure that the college submits a filled check list form ([[http://vlabs.ac.in:5959/workshops/images/Prerequisite-online-version-workshop.docx][Online]] / [[http://vlabs.ac.in:5959/workshops/images/Prerequisite-college-cloud-version-workshop.docx][Offline]]).
  5. During the communication confirm the number of faculty /students
      and disciplines of interest.
  6. Add a workshop in Outreach Portal with relevant information.
