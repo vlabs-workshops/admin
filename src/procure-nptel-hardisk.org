@@ -18,16 +18,19 @@
   available for distribution to any interested institution for its
   internal use.
 
+
 * Who owns the copyrights of the contents of NPTEL ?
   The copyrights are owned jointly by the MHRD, IITs/IISc and the
   faculty.
+
 
 * Pre-requisites 
    + Interested institute should own a 9 TB (4 TB + 4 TB + 1 TB)
      external hard disk for copying web and video courses at no cost.
    + A Letter from the institution requesting for NPTEL contents.
-   + [[http://nptel.ac.in/Harddisk/copyright.pdf][Copyright form]], digned by te head of the individual institution
+   + [[http://nptel.ac.in/Harddisk/copyright.pdf][Copyright form]], signed by the head of the individual institution
      must be given at the time of request.
+
 
 * Procedure to procure NPTEL Harddisk 
    Institute has to perform following steps to get the NPTEL hard-disk
@@ -49,9 +52,11 @@
    + Person delivering and picking-up the HDD must carry ID-proof and his name 
      must be mentioned in the email to be send as mentioned in te above point.
 
+
 * Contact addressess 
   + nptel@iitm.ac.in 
  
+
 * Missing points 
   + There is no clear indication on where to send the disk and get it back.
   + Probably based on [[http://nptel.ac.in/faq.php][Question 10 of FAQs]], its Chennai
